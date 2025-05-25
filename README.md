@@ -1,2 +1,2 @@
 # tmuukkon.github.io
-Henk. koht. sivu
+Uusi henkilökohtainen sivu löytyy [täältä](https://toivo.pages.dev).
